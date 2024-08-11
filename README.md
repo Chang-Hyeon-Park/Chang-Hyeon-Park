@@ -8,7 +8,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Chang%20Hyeon%20Park&textBg=false&section=header&reversal=false" /> 
 
 
-  🌱 I'm Current Studying
+  🌱 I'm Current Studying 
 
 
 <!-- Current Studying Languages -->
