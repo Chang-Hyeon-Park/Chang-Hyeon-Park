@@ -71,21 +71,6 @@
 
 
 
- Future data analyst in training
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 </div>
 
 <!-- Solved.ac
