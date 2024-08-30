@@ -66,11 +66,23 @@
 # 💻 Most Used Languages
 
 <!-- Most Used Language -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chang-Hyeon-Park)](https://github.com/anuraghazra/github-readme-stats)
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chang-Hyeon-Park" alt="Top Langs">
+      </a>
+    </td>
+    <td>
+      <a href="https://git.io/streak-stats">
+        <img src="https://streak-stats.demolab.com/?user=Chang-Hyeon-Park" alt="GitHub Streak">
+      </a>
+    </td>
+  </tr>
+</table>
 
 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Chang-Hyeon-Park)](https://git.io/streak-stats)
 
 
 </div>
