@@ -8,7 +8,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Chang%20Hyeon%20Park&textBg=false&section=header&reversal=false" />            
     
  # ⛹ History 
-    
+     
 🏫 세종대학교 지능기전공학부 (2018.03 ~ 2024.08) </br>
 📋 세종대학교 산학협력단 SW코딩역량평가 사이트 개발(2022.03 ~ 2022.05) </br>
 🧑🏽‍💻 세종대학교 Capstone Project 인공지능 파트 담당 (2023.09 ~ 2023.12) </br> 
