@@ -6,7 +6,7 @@
 <div align=center>    
     
   <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Chang%20Hyeon%20Park&textBg=false&section=header&reversal=false" />              
-      
+       
  # ⛹ History 
      
 🏫 세종대학교 지능기전공학부 (2018.03 ~ 2024.08) </br>
