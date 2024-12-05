@@ -76,9 +76,9 @@
 
 </details>
 
+<!--
 # 💻 Most Used Languages
 
-<!-- Most Used Language -->
 <table>
   <tr>
     <td>
@@ -93,6 +93,7 @@
     </td>
   </tr>
 </table>
+-->
 
 
 
