@@ -18,6 +18,20 @@
 🌱 새싹 (SeSAC) 데이터 AI 개발자 과정 6기 수료(2024.07.01 ~ 2024.11.29) </br>   
 
 
+# 📑 Projects
+
+## 🤖 AI Projects
+🕳️ Yolov8을 활용한 포트홀 검출 프로젝트 (SeSAC 데이터 AI 개발자 과정 Final Project / 2024.11.07 ~ 2024.11.29)  
+🍔 TROCR과 CRAFT를 활용한 식품 영양성분표 텍스트 추출 (SeSAC 데이터 AI 개발자 과정 Side Project / 2024.09.02 ~ 2024.11.17)  
+😳 Image Classification을 활용한 피부질환 진단 서비스 개발 (세종대학교 Capstone / 2023.09 ~ 2023.12)  
+
+## 📋 Data Analysis Projects
+💻 IT 아웃소싱 시장 데이터 분석 (DSA 대외활동 / 2024.03 ~ 2024.05)
+
+## 📱 Frontend
+📱 TOSC 세종대학교 산학협력단 SW코딩역량평가 사이트 개발 (세종대학교 디자인이노베이션학과 협업 / 2022.03 ~ 2022.05)
+
+
 
 #  🌱 I'm Current Studying 
 
